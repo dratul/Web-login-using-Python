@@ -20,4 +20,4 @@ Once on the page, choose the appropriate link for your chrome version. Then you 
 
 ### Selenium
 Selenium is a great program for working with automation and web applications; we will be using it for these exact purposes. The installation process for Selenium is simple; you open the command prompt by searching for "cmd" on your computer. Open the command prompt and enter the following command:
-$ pip install selenium $
+> pip install selenium 
