@@ -9,7 +9,7 @@ Here are the steps to prepare you to be able to open a webpage and log in using 
 3. How to hide our passwords
 4. Reviewing necessary imports
 Watch
-[YouTube video] [https://youtu.be/NMVEU2KSY84?si=wdo0_F1TcHGYz8Hy] link showing all steps. click on the link below to watch video: https://youtu.be/NMVEU2KSY84?si=wdo0_F1TcHGYz8Hy
+[YouTube video] (https://youtu.be/NMVEU2KSY84?si=wdo0_F1TcHGYz8Hy) link showing all steps Click on the link below to watch the video: https://youtu.be/NMVEU2KSY84?si=wdo0_F1TcHGYz8Hy
 
 ## Downloads
 
@@ -21,3 +21,7 @@ Once on the page, choose the appropriate link for your chrome version. Then you 
 ### Selenium
 Selenium is a great program for working with automation and web applications; we will be using it for these exact purposes. The installation process for Selenium is simple; you open the command prompt by searching for "cmd" on your computer. Open the command prompt and enter the following command:
 > pip install selenium 
+## Save ID and password in a file
+If we must show our passwords while using this program we are not really able to show it off to our friends and where is the fun in that? In this article, I will show you a way to keep your login information hidden so you can share this with friends and not have worries about security. We will be creating another file and call it "login_details.py". We are going to keep this file as basic as possible inserting only 2 lines of code:
+> username = "username"
+> password = "password"
